@@ -1,5 +1,8 @@
 import time
-
+"""
+嵌套函数 定义的装饰器
+类  定义的装饰器
+"""
 
 def cal_time(fun):
     def ln():
